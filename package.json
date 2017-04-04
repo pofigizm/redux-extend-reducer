@@ -1,6 +1,6 @@
 {
   "name": "extend-reducer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Extend reducer with other reducers",
   "main": "lib/index.js",
   "scripts": {
