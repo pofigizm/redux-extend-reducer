@@ -1,10 +1,10 @@
-extend-reducer
+redux-extend-reducer
 ===============
 
-Extend reducer with other reducers.
+Extend redux reducer with other reducers.
 
 ```
-npm install --save extend-reducer
+npm install --save redux-extend-reducer
 ```
 
 ## Example
